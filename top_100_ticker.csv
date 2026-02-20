@@ -1,0 +1,101 @@
+Ticker,MarketCap,GICS Sector,GICS Sub-Industry
+NVDA,4576748955978.394,Information Technology,Semiconductors
+AAPL,3885396827809.021,Information Technology,"Technology Hardware, Storage & Peripherals"
+GOOG,3676762209533.6914,Communication Services,Interactive Media & Services
+GOOGL,3669382847564.6973,Communication Services,Interactive Media & Services
+MSFT,2969978156701.2334,Information Technology,Systems Software
+AMZN,2198404372894.467,Consumer Discretionary,Broadline Retail
+META,1627060591446.0098,Communication Services,Interactive Media & Services
+AVGO,1581262271005.992,Information Technology,Semiconductors
+TSLA,1543450351142.5127,Consumer Discretionary,Automobile Manufacturers
+BRK.B,1076661067487.0116,Financials,Multi-Sector Holdings
+WMT,1009522430965.7296,Consumer Staples,Consumer Staples Merchandise Retail
+LLY,962752846252.0813,Health Care,Pharmaceuticals
+JPM,840580148435.8059,Financials,Diversified Banks
+XOM,635442483980.7566,Energy,Integrated Oil & Gas
+V,617551060664.6604,Financials,Transaction & Payment Processing Services
+JNJ,590401153568.6102,Health Care,Pharmaceuticals
+MU,473783137157.0767,Information Technology,Semiconductors
+MA,471189220936.27686,Financials,Transaction & Payment Processing Services
+ORCL,448846786207.3822,Information Technology,Application Software
+COST,442217376469.80743,Consumer Staples,Consumer Staples Merchandise Retail
+ABBV,404236215188.49194,Health Care,Biotechnology
+BAC,389661167005.0896,Financials,Diversified Banks
+HD,381798553790.1842,Consumer Discretionary,Home Improvement Retail
+CVX,367621136301.79126,Energy,Integrated Oil & Gas
+PG,366540025922.36896,Consumer Staples,Personal Care Products
+CAT,351906603845.75024,Industrials,Construction Machinery & Heavy Transportation Equipment
+GE,347645554623.619,Industrials,Aerospace & Defense
+KO,341934877979.31213,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+NFLX,330824963260.03613,Communication Services,Movies & Entertainment
+AMD,326277809940.16956,Information Technology,Semiconductors
+PLTR,322669623076.31274,Information Technology,Application Software
+CSCO,308896574141.11835,Information Technology,Communications Equipment
+MRK,303880314719.0753,Health Care,Pharmaceuticals
+LRCX,301560238100.28076,Information Technology,Semiconductor Materials & Equipment
+AMAT,293121325858.3173,Information Technology,Semiconductor Materials & Equipment
+PM,284358655845.5646,Consumer Staples,Tobacco
+GS,282659760254.36865,Financials,Investment Banking & Brokerage
+MS,280656125585.85547,Financials,Investment Banking & Brokerage
+WFC,277997319375.7394,Financials,Diversified Banks
+RTX,274913935644.4905,Industrials,Aerospace & Defense
+UNH,261062701341.60034,Health Care,Managed Health Care
+IBM,243769602359.9793,Information Technology,IT Consulting & Other Services
+TMUS,238521537994.5,Communication Services,Wireless Telecommunication Services
+AXP,237733226385.9851,Financials,Consumer Finance
+MCD,233983768317.44995,Consumer Discretionary,Restaurants
+LIN,227552417116.56067,Materials,Industrial Gases
+INTC,227080810764.13748,Information Technology,Semiconductors
+PEP,224777041985.4118,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+GEV,221818038760.98267,Industrials,Heavy Electrical Equipment
+C,208037970416.75232,Financials,Diversified Banks
+AMGN,204700174150.12436,Health Care,Biotechnology
+TXN,202913699704.67377,Information Technology,Semiconductors
+VZ,202626846782.68433,Communication Services,Integrated Telecommunication Services
+T,197653845998.77722,Communication Services,Integrated Telecommunication Services
+ABT,197176603289.4978,Health Care,Health Care Equipment
+KLAC,194500084357.0415,Information Technology,Semiconductor Materials & Equipment
+TMO,192948629862.784,Health Care,Life Sciences Tools & Services
+NEE,189975657916.72815,Utilities,Multi-Utilities
+DIS,189929739317.72626,Communication Services,Movies & Entertainment
+GILD,189501412432.27673,Health Care,Biotechnology
+BA,187642975895.22607,Industrials,Aerospace & Defense
+APH,181591916357.12723,Information Technology,Electronic Components
+CRM,178776073608.39844,Information Technology,Application Software
+ISRG,177835020948.18872,Health Care,Health Care Equipment
+ANET,175720630213.1273,Information Technology,Communications Equipment
+TJX,174987355064.74268,Consumer Discretionary,Apparel Retail
+SCHW,173135611848.3513,Financials,Investment Banking & Brokerage
+ADI,169601487533.37085,Information Technology,Semiconductors
+BLK,169465133379.4856,Financials,Asset Management & Custody Banks
+BX,163418976920.98093,Financials,Asset Management & Custody Banks
+HON,162496936635.30258,Industrials,Industrial Conglomerates
+DE,160820348992.083,Industrials,Agricultural & Farm Machinery
+LOW,158261237302.4308,Consumer Discretionary,Home Improvement Retail
+UNP,157248736900.0,Industrials,Rail Transportation
+PFE,155617820469.87567,Health Care,Pharmaceuticals
+QCOM,152986786277.42697,Information Technology,Semiconductors
+UBER,151203709923.0014,Industrials,Passenger Ground Transportation
+LMT,150364601253.82397,Industrials,Aerospace & Defense
+ETN,148081935900.8789,Industrials,Electrical Components & Equipment
+DHR,147431062274.16992,Health Care,Life Sciences Tools & Services
+WELL,145544197677.45392,Real Estate,Health Care REITs
+SYK,144396093653.89557,Health Care,Health Care Equipment
+ACN,138669258018.62274,Information Technology,IT Consulting & Other Services
+BKNG,138389896717.20703,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+NEM,136965699016.70203,Materials,Gold
+APP,136810399025.75684,Information Technology,Application Software
+COP,136571576952.2959,Energy,Oil & Gas Exploration & Production
+COF,133427772331.448,Financials,Consumer Finance
+PLD,129697703745.4834,Real Estate,Industrial REITs
+CB,129592365722.97134,Financials,Property & Casualty Insurance
+IBKR,127325323815.59882,Financials,Investment Banking & Brokerage
+SPGI,126988265478.51562,Financials,Financial Exchanges & Data
+MDT,126324848281.9166,Health Care,Health Care Equipment
+PH,125900987677.5,Industrials,Industrial Machinery & Supplies & Components
+PANW,123110159882.29553,Information Technology,Systems Software
+BMY,121638573467.42632,Health Care,Pharmaceuticals
+HCA,119642353811.6211,Health Care,Health Care Facilities
+VRTX,119474819278.69934,Health Care,Biotechnology
+PGR,119162735284.42383,Financials,Property & Casualty Insurance
+MCK,116881332081.45483,Health Care,Health Care Distributors
