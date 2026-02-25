@@ -2,19 +2,14 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-# 1. Load your clean features
 df = pd.read_parquet("data/processed/top100af.parquet")
-
-# 2. Dictionary to hold our dynamic horizons
 ticker_half_lives = {}
-
-
 for ticker, group in df.groupby('Ticker'):
-    # Extract the Z-Score series
+    #Extract the Z-Score series
     z = group['Z_Score'].dropna()
     
     if len(z) < 50:
-        ticker_half_lives[ticker] = 4 # Fallback for missing data
+        ticker_half_lives[ticker] = 4 # in case of missing data
         continue
         
     # Calculate Delta Z (Current - Previous)
