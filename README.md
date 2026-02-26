@@ -1,5 +1,7 @@
 AlphaFinder: Market-Neutral ML Trading Bot
 AlphaFinder is a fully autonomous, multi-class algorithmic trading system designed to exploit short-term market inefficiencies across a 100-stock universe. Built with a strict focus on capital preservation, the engine utilizes a LightGBM classifier to identify high-conviction setups and executes them using dynamic, volatility-adjusted risk parameters.
+
+
 🛠 Features
 Predictive Engine: Powered by LightGBM, trained on historical hourly OHLCV data.
 
