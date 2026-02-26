@@ -1,6 +1,5 @@
 AlphaFinder: Market-Neutral ML Trading Bot
-AlphaFinder is an end-to-end algorithmic trading system that leverages Gradient Boosted Decision Trees (LightGBM) to execute market-neutral statistical arbitrage. The bot is designed to identify high-conviction intraday signals on large-cap equities and execute trades autonomously via the Alpaca Markets API.
-
+AlphaFinder is a fully autonomous, multi-class algorithmic trading system designed to exploit short-term market inefficiencies across a 100-stock universe. Built with a strict focus on capital preservation, the engine utilizes a LightGBM classifier to identify high-conviction setups and executes them using dynamic, volatility-adjusted risk parameters.
 🛠 Features
 Predictive Engine: Powered by LightGBM, trained on historical hourly OHLCV data.
 
@@ -24,3 +23,37 @@ Brokerage API: Alpaca Markets
 Indicators: pandas_ta
 
 Environment Management: python-dotenv
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/techvibration/statarb-ml.git  
+cd AlphaFinder  
+
+Create a virtual environment:
+
+python -m venv venv  
+
+Activate the virtual environment:
+
+Windows:
+venv\Scripts\activate  
+
+Linux / Mac:
+source venv/bin/activate  
+
+Install dependencies:
+
+pip install -r requirements.txt  
+
+Create a .env file in the root directory and add your Alpaca credentials:
+
+ALPACA_API_KEY=your_api_key  
+ALPACA_SECRET_KEY=your_secret_key  
+
+# Boot it up
+python alphafinder_live.py
+
+
+
