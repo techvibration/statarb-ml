@@ -3,6 +3,8 @@ AlphaFinder is a fully autonomous, multi-class algorithmic trading system design
 
 
 🛠 Features
+
+
 Predictive Engine: Powered by LightGBM, trained on historical hourly OHLCV data.
 
 Market-Neutral Strategy: Simultaneously evaluates Long and Short opportunities to hedge against broad market volatility.
@@ -14,6 +16,8 @@ Live Execution: Real-time trade execution using the alpaca-py SDK with a secure 
 Walk-Forward Optimization: Backtested using a rolling window to prevent data leakage and ensure temporal validity.
 
 📊 Technical Stack
+
+
 Language: Python 3.11.9 
 
 ML Library: LightGBM
